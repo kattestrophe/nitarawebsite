@@ -4,14 +4,15 @@ title: For Meadowbrook Residents
 subtitle: Battery pickup at your door!
 comments: false
 use-site-title: true
+image: /img/battery.png
 ---
-Throwing used batteries into the trash can be bad for the earth, and is illegal in CA.
+I learned that throwing used batteries into the trash can be bad for the earth, and is illegal in CA.
 
 > Batteries are considered hazardous because of the metals and/or other toxic or corrosive materials they contain. Batteries are potentially a valuable source of recyclable metal.
 
 >Batteries are considered hazardous waste in California when they are discarded. This includes AAA, AA, C, D, button cell, 9-volt, and all other batteries, both rechargeable and single-use. All batteries must be recycled or taken to a household hazardous waste disposal facility, a universal waste handler (e.g., storage facility or broker), or an authorized recycling facility.
 
-To help in my little way, if you live in the Meadowbrook Village community,
+To help in my little way, if you live in the [Meadowbrook Village](https://goo.gl/maps/WzkbR3i1MTGq9AbA6) community,
 **my dad and I can come pick up any battery waste you have** and we will make a
 weekly run to the recycling center.
 
@@ -26,8 +27,8 @@ to recycle instead of tossing the dead battery from the remote into the trash!
 **Note:** We can only pickup every Saturday because of our schedules :(
 
 {: .box-note}
-**Note:** We will never use any of your personal info in any other way except to
+**Privacy:** We will never use any of your personal info in any other way except to
 come and pick up batteries.
 
 {: .box-note}
-**Note:** I am a kid. Please only give me regular batteries and not car batteries.
+**Disclaimer:** I am a kid. Please only give me regular batteries and not car batteries.

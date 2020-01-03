@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Why am I doing this?
-image: /img/nitara.png
+image: /img/nitara.jpg
 ---
 
 My name is Nitara Varicatt. I am five years old and I learned about reduce,
