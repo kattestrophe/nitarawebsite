@@ -25,7 +25,8 @@ navbar-links:
     - Gov on Batteries: "https://www.calrecycle.ca.gov/reducewaste/batteries"
     - Reduce Waste: "https://www.calrecycle.ca.gov/ReduceWaste/Home/"
     - Your Help: "https://www.calrecycle.ca.gov/PublicEd/"
-  Author's home: "http://nitaravaricatt.com"
+    - Cardzforkids: "https://cardzforkidz.org/"
+  Author's home: "home"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

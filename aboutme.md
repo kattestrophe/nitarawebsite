@@ -5,6 +5,4 @@ subtitle: Why am I doing this?
 image: /img/nitara.jpg
 ---
 
-My name is Nitara Varicatt. I am five years old and I learned about reduce,
-reuse, recycle at school. I care deeply about keeping the earth green and my
-family is helping me do small things that can help.
+My name is Nitara Varicatt. I started this website with my parents' help when I was five years old. I journal some small ways in which I help my community here.
